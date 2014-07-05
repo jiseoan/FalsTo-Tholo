@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0bdc327dac9c8d4cb704b5303d682cb
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - NanumBarunGothicBold
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 

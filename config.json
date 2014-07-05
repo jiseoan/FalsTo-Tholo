@@ -1,0 +1,6 @@
+{
+    "url": "http://115.68.23.109",
+    "config": "hologram/preview/list.php",
+    "dataupdate": "hologram/preview/dataupdate.php",
+    "setting": "hologram/preview/configure.php?appid=hol-2"
+}
